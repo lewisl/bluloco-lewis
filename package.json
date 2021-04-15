@@ -1,0 +1,22 @@
+{
+    "name": "bluloco-lewis",
+    "publisher": "Lewis Levin",
+    "displayName": "Bluloco Lewis",
+    "description": "Nice tweaks to Bluloco light",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bluloco Lewis",
+                "uiTheme": "vs",
+                "path": "./themes/Bluloco-Lewis-color-theme.json"
+            }
+        ]
+    }
+}
