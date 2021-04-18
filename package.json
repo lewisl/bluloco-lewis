@@ -16,6 +16,11 @@
                 "label": "Bluloco Lewis",
                 "uiTheme": "vs",
                 "path": "./themes/Bluloco-Lewis-color-theme.json"
+            },
+            {
+                "label": "Bluloco Lewis Eiffel",
+                "uiTheme": "vs",
+                "path": "./themes/Bluloco-Lewis-Eiffel-color-theme.json"
             }
         ]
     }
